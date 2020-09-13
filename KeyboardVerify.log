@@ -1,0 +1,25 @@
+    WARNING: ё (U+0451) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Base' and VK_S, ShiftState 'Ctl+Alt').
+    WARNING: Caps Lock is not set between 'ш' and 'Ш' (VK_B, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'й' and 'Й' (VK_C, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'е' and 'Е' (VK_D, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'у' and 'У' (VK_F, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'и' and 'И' (VK_G, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'д' and 'Д' (VK_H, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'ц' and 'Ц' (VK_I, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'х' and 'Х' (VK_J, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'т' and 'Т' (VK_K, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'н' and 'Н' (VK_L, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'м' and 'М' (VK_M, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'б' and 'Б' (VK_N, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'р' and 'Р' (VK_O, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'л' and 'Л' (VK_P, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'п' and 'П' (VK_R, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'о' and 'О' (VK_S, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'г' and 'Г' (VK_U, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'к' and 'К' (VK_V, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'ч' and 'Ч' (VK_X, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'ф' and 'Ф' (VK_Y, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'с' and 'С' (VK_OEM_1, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'щ' and 'Щ' (VK_OEM_COMMA, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'в' and 'В' (VK_OEM_PERIOD, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'з' and 'З' (VK_OEM_2, ShiftStates 'Base' and 'Shift').
